@@ -1,11 +1,10 @@
 # React Native - Expo - Template App de Finança
 
 
-# Tio Patinhas Bank Line - Grupo 5 - Projeto Final
 
 <br>
 <div align=center>   
-# Spring Boot e Spring Data. - Banco fictício BlueBank 
+# Projeto do curso Design de Interfaces com React Native - Udemy
 
 </div><br>
 
@@ -14,7 +13,6 @@
  2. [Tecnologias Utilizadas](#tecnologias)
  3. [Como rodar a aplicação ](#testes)
  5. [Desenvolvedores](#Devs)
-
 
 
 <div id='projeto'/>
